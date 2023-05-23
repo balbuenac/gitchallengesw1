@@ -17,6 +17,7 @@ def triplea():
 
 def botdiscord():
     print("Este es el equipo Bot Discord")
+    print_nombre("Joaquín")
 
 def gymexplorer():
     print("Este es el equipo Gym Explorer")
