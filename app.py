@@ -22,7 +22,7 @@ def gymexplorer():
 
 def quedijo():
     print("Este es el equipo Que Dijo")
-
+    print("Johan")
 def signtalk():
     print("Este es el equipo Sign Talk")
 
