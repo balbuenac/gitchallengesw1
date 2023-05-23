@@ -24,7 +24,7 @@ def quedijo():
     print("Este es el equipo Que Dijo")
 
 def signtalk():
-    print("Este es el equipo Sign Talk")
+    print("Este es el equipo PythonLog²@2320")
 
 
 main()
