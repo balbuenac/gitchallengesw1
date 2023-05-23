@@ -9,7 +9,7 @@ def main():
     # <== do not modify
 
 def aurora():
-    print("Este es el equipo Aurora")
+    print("Este es el equipo Aurora, Dimael Rivas")
 
 def triplea():
     print("Este es el equipo TripleA")
@@ -21,7 +21,7 @@ def gymexplorer():
     print("Este es el equipo Gym Explorer")
 
 def quedijo():
-    print("Este es el equipo Que Dijo")
+    print("Este es el equipo Que Dijo Dimael Rivas")
 
 def signtalk():
     print("Este es el equipo Sign Talk")
