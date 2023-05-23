@@ -19,6 +19,11 @@ def botdiscord():
 
 def gymexplorer():
     print("Este es el equipo Gym Explorer")
+    print("print Wanly")
+    print("print Jeanpi")
+    print("print AngelM")
+    print("print Matias")
+    print("print JuanS")
 
 def quedijo():
     print("Este es el equipo Que Dijo")
